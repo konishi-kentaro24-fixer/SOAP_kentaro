@@ -1,0 +1,31 @@
+[
+  {
+    "name": "folder",
+    "mdiLink": "mdiFolder"
+  },
+  {
+    "name": "human",
+    "mdiLink": "mdiHuman"
+  },
+  {
+    "name": "camera",
+    "mdiLink": "mdiCamera"
+  },
+  {
+    "name": "mic",
+    "mdiLink": "mdiMicrophone"
+  },
+  {
+    "name": "creation",
+    "mdiLink": "mdiCreation"
+  },
+  {
+    "name": "plus",
+    "mdiLink": "mdiPlusCircleOutline"
+  },
+  {
+    "name": "more",
+    "mdiLink": "mdiDotsHorizontal"
+  }
+  
+]

@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: rgb(232, 232, 232);
+}
+
+button {
+  padding: 0;
+  border: none;
+  outline: none;
+  font: inherit;
+  color: inherit;
+  background: none;
+}
+button:hover {
+  cursor: pointer;
+  font-weight: bold;
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "clock",
+    "mdiLink": "mdiUpdate"
+  },
+  {
+    "name": "shield",
+    "mdiLink": "mdiShieldCrossOutline"
+  },
+  {
+    "name": "account",
+    "mdiLink": "mdiAccountCircle"
+  },
+  {
+    "name": "multiAccount",
+    "mdiLink": "mdiAccountMultiple"
+  },
+  {
+    "name": "pill",
+    "mdiLink": "mdiPill"
+  },
+  {
+    "name": "calendar",
+    "mdiLink": "mdiCalendarEdit"
+  },
+  {
+    "name": "folder",
+    "mdiLink": "mdiFolderAccount"
+  },
+  {
+    "name": "booking",
+    "mdiLink": "mdiBookOpenVariant"
+  }
+  
+]
